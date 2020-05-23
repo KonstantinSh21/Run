@@ -1,0 +1,36 @@
+.item-white-wrapper{
+    height: 40px;
+    display: flex;
+}
+.item-center{
+    display: block;
+    height: 40px;
+    width: 150px;
+}
+.item-white-date{
+    font-size: 12px; 
+    color: rgb(87, 88, 88);
+   text-align: center;
+}
+.item-white-dateNumber{
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.item-center .right{
+    display: block;
+    height: 40px;
+    width: 150px;
+}
+.dist{
+    margin-top: 5px;;
+    text-align: center;
+}
+
+.trash{
+    padding-bottom: 4px;
+    padding-top: 8px;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

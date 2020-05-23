@@ -1,0 +1,46 @@
+.wrapper-window{
+    position: relative;
+    margin: 0 auto;
+    top: 250px;
+    height: 300px;
+    width: 600px;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+.header-window{
+    height: 50px;
+    background-color:#EC174F;
+}
+
+.header-window span {
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 10px;
+    font-family: PT Sans Caption;
+    font-size: 25px;
+    color: white;
+}
+.dist-window{
+    font-size: 23px;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+
+.dist-window-app{
+margin-left: 7rem;
+}
+.dist-window input {
+    float: left;
+    margin-top: 10px;
+    height: 20px;
+    width: 150px;
+    
+    margin-left: 12rem;
+}
+
+.metrov{
+    font-size: 20px;
+    font-weight: lighter;
+    margin-left:15px;
+
+}

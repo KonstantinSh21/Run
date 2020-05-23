@@ -1,0 +1,29 @@
+.wrapper-header{
+position: absolute;
+box-shadow: 1px 1px 8px 2px rgb(37, 37, 37) ;
+width: 360px;
+height: 40px;
+left: 138px;
+top: 160px;
+display: flex;
+
+background: #1C2025;
+}
+.wrapper-header-date{
+margin-left: 50px;
+margin-top: 10px;
+font-family: PT Sans Caption;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+.wrapper-header-dist{
+margin-left: 95px;
+margin-top: 10px;
+font-family: PT Sans Caption;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF; 
+}
